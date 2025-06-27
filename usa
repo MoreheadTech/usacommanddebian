@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Show the contents of flag.txt
+cat flag.txt
+
+# Play the anthem
+mpv ~/Downloads/anthem.mp3
